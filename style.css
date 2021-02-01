@@ -1,0 +1,17 @@
+body {
+   background: grey;
+}
+
+.container {
+   font-family: "Roboto", sans-serif;
+   align-items: center;
+}
+
+.card-header {
+   background-color: rgba(0, 159, 165, 0.39);
+}
+
+.btn {
+   margin: 10px;
+   font-size: large;
+}
